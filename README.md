@@ -1,2 +1,2 @@
 # armAI
-Active inference form arm perception and action
+Active inference for arm perception and action
