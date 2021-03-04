@@ -5,4 +5,4 @@ Based on visual and proprioception sensoory information performs active inferenc
 # Setup
 1) Open armAIF.ipynb
 2) Add arm.png to the current working directory
-3) (Optional) Save trained_network_DataLarge_Hybrid.pth in the folder called networks in the currrent working directory.
+3) (Optional, used to replicate results) Save trained_network_DataLarge_Hybrid.pth in the folder called networks in the currrent working directory. 
