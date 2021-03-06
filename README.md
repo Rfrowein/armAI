@@ -1,6 +1,6 @@
 # armAIF
 Active inference for arm perception and action.
-Based on visual and proprioception sensoory information performs active inference. The algorithm also has the possibility to movee towards self set goal states.
+Based on visual and proprioception sensory information performs active inference. The algorithm also has the possibility to move towards self set goal states.
 
 # Setup
 1) Open armAIF.ipynb
